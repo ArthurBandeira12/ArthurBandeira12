@@ -5,20 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+ <a href="https://www.linkedin.com/in/arthur-bandeira-9b95ba29a/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"   /> </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">Oi! 👋</h1>
 
 ###
 
@@ -26,11 +14,11 @@
 
 ###
 
-<p align="left">Me chamo Arthur Bandeira tenho 22 anos<br><br>- <br>- 📚 atualmente sou um estudande do curso TSI pelo IFPE<br>- </p>
+<p align="left">Me chamo Arthur Bandeira tenho 22 anos<br><br> 📚 atualmente sou um estudande do curso TSI pelo IFPE<br> </p>
 
 ###
 
-<h3 align="left">🛠 Linguagens que estou aprendendo</h3>
+<h3 align="left">🛠 Linguagens que estou aprendendo:</h3>
 
 ###
 
@@ -53,12 +41,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Meus Status :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=arthurbandeira12&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
