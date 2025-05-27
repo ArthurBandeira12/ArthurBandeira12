@@ -11,7 +11,6 @@
 ##
 
 <p align="left">Me chamo Arthur Bandeira tenho 22 anos<br><br> -📚 atualmente sou um estudande do curso TSI pelo IFPE<br> </p>
-
 ##
 
 <h3 align="left">🛠 Linguagens que estou aprendendo:</h3>
