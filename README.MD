@@ -10,7 +10,7 @@
 
 <p align="left">Me chamo Arthur Bandeira tenho 23 anos<br><br> -📚 atualmente sou um estudande do curso TSI pelo IFPE<br> </p>
 
-## 🛠 Linguagens que estou aprendendo:
+## 🛠 Estou aprendendo:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo"  />
@@ -34,5 +34,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArthurBandeira12&show_icons=true&theme=github_dark"  />
 </div>
->
+
 
