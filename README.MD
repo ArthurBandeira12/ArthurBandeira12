@@ -32,7 +32,8 @@
 ## 🔥 Meus Status :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurBandeira12&show_icons=true&theme=github_dark"  />
+ <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=ArthurBandeira12&show_icons=true&theme=github_dark" />
+
 </div>
 
 
