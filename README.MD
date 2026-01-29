@@ -8,7 +8,7 @@
 
 ## 👩‍💻 Sobre mim
 
-<p align="left">Me chamo Arthur Bandeira tenho 23 anos<br><br> -📚 atualmente sou um estudande do curso TSI pelo IFPE<br> </p>
+<p align="left">Me chamo Arthur Bandeira tenho 23 anos<br><br> -📚 atualmente sou um estudande do curso TSI pelo IFPE<br> </p><br> - Desenvolvedor Back-End Java em formação<br> </p>
 
 ## 🛠 Estou aprendendo:
 
@@ -17,13 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="html logo"  />
   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
-  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="40" alt="svelt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="sql logo"  />
   <img width="12" />
